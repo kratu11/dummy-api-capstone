@@ -1,0 +1,7 @@
+{
+    "text" : "this is the first post",
+    "image" : "sampleurl.com",
+    "likes" : "number",
+    "tags" : ["water","lol"],
+    "owner" : "userId"
+}
